@@ -1,4 +1,4 @@
-FirefoxIs mise Mícheál Ó Cianáin (Michael Keenan)
+Is mise Mícheál Ó Cianáin (Michael Keenan)
 
 I like to build **free** tools to help with learning Irish!
 
